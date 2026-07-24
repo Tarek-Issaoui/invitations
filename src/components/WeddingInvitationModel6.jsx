@@ -359,7 +359,6 @@ export default function WeddingInvitationModel6() {
       <PhotoGallery />
       <Footer />
       <DigiServicesFooter />
-      <AudioPlayer />
     </div>
   );
 }
